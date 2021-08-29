@@ -1,0 +1,21 @@
+.color
+{
+    color:blue;
+}
+
+.pad{
+    padding-top: 10px;
+}
+
+.none{
+    display:none;
+}
+
+.display{
+    display:block;
+}
+
+li{
+    padding-bottom:2%;
+    padding-top:2%;
+}
